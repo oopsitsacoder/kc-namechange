@@ -1,14 +1,14 @@
-## Sealed Name Changes
+# Sealed Name Changes
 
-### Related RCWs
+## Related RCWs
 - [RCW 4.24.130 Action for change of name—Fees.](https://apps.leg.wa.gov/rcw/default.aspx?cite=4.24&full=true#4.24.130)
 - [RCW 49.60.040 Definitions](http://app.leg.wa.gov/RCW/default.aspx?cite=49.60.040)
 
-### Helpful links
+## Helpful links
 1. [King County E-Filing Page](https://dja-prd-ecexap1.kingcounty.gov/?q=Home)
     - This is where you'll file your petition form, and your proposed order
 
-### Required Forms
+## Required Forms
 
 There are no official forms for a sealed name change in King County. Helpfully, multiple law groups have provided templates for people to use, and using either is fine as of 11/14/2024.
 
@@ -22,10 +22,10 @@ In either case, there are two forms you need to fill out:
 1. **Petition for a name change** - This is your request for a court order to change your name. This is what you file *before* your hearing.
 2. **Proposed order for a name change** - This is basically a template court order for the judge to fill out at your hearing. You bring this *to* your hearing.
 
-### Steps ###
+## Steps
 1. Fill in your petition form
 
-#### Filing Online
+### Filing Online
 1. Navigate to the [e-filing page](https://dja-prd-ecexap1.kingcounty.gov/?q=Home)
 2. If you don't have an account, create one according to the instructions on the page
 3. Go to "File a New Case"
@@ -51,13 +51,13 @@ In either case, there are two forms you need to fill out:
     - A scheduling document (schedule.pdf)
 12. You now need to schedule your hearing!
    
-#### Filing In-Person
+### Filing In-Person
 TODO
 
 
-#### Scheduling your hearing online
+### Scheduling your hearing online
 
-**Request a hearing**
+#### Request a hearing
 
 First step is to request a hearing via the Ex Parte scheduling page. You can get to it from the link in your "schedule.pdf" file, but it's easiest to go direct to the webpage specified below:
 
@@ -76,10 +76,26 @@ First step is to request a hearing via the Ex Parte scheduling page. You can get
 You should get a confirmation page, as well as a confirmation email.
 
 *Before you leave the confirmation page, make sure to download the Notice of Motion*. 
+
+Page:
+![Confirmation Page](/kc-namechange/assets/images/ScheduleConfirmationPage.jpg) 
+
+Email:
+![Confirmation Email](/kc-namechange/assets/images/ScheduleConfirmationEmail.jpg)
+
+**Note:** You can skip all steps related to:
+- Order to Show Cause
+- Serving other Parties
+- Submitting Working Papers or Proposed Orders
+
+These are not applicable for name changes at this point.
+
 Note that "Notice of Motion" and "Notice of Court Date" refer to the same form, but "Notice of Motion" is pre-filled with *your specific information*, which makes the next steps easier.
+
 If you forget to download your "Notice of Motion", you can find a *blank* Notice of Court Date form here: [Notice of Court Date Forms](https://kingcounty.gov/en/court/superior-court/courts-jails-legal-system/notice-of-court-date-forms)
 
-**File a Notice of Court Date**
+#### File a Notice of Court Date
+
 Fill in your Notice of Court Date / Notice of Motion. If your form is pre-filled, use the value that is prefilled:
 1. In the upper left blank area, list your case name, usually "IN RE <DEADNAME>"
 2. In the upper right, where it says CASE NO., list your case number
@@ -96,7 +112,8 @@ Fill in your Notice of Court Date / Notice of Motion. If your form is pre-filled
 
 Now you should be good to go!
 
-** Checking Status **
+**Checking Status**
+
 If you'd like to check the status of your hearing:
 1. Navigate back to the [Ex Parte Online Scheduling webpage](https://superiorcourt.kingcounty.gov/ex-parte-online-scheduling).
 2. Choose "Seattle" in the "Locations" dropdown
@@ -105,9 +122,56 @@ If you'd like to check the status of your hearing:
 
 ![Example](/kc-namechange/assets/images/CheckingCaseStatus.jpg) 
 
-#### Attending your hearing
 
+### Attending your hearing
 
 - [Courthouse Webpage](https://kingcounty.gov/en/court/superior-court/courts-jails-legal-system/court-calendars-locations-operations/superior-court-locations/king-county-courthouse)
 - [Superior Court Directory](https://kingcounty.gov/en/-/media/courts/superior-court/docs/locations/kcch-brochure.ashx)
+- [Superior Court Clerk Webpage](https://kingcounty.gov/en/dept/dja/courts-jails-legal-system/court-calendars-locations-operations/locations-hours)
 
+> **Note:** Because there are two forms of name change, sealed and unsealed, you *might* get bad directions from courthouse employees who don't know you're doing a *sealed* name change. 
+>
+> Be sure, if you're asking questions or being directed, that the employee knows you are there for a ***sealed*** name change in ***Superior*** court (vs an ***unsealed*** name change in ***District*** court).
+>
+> They should then direct you appropriately.
+
+#### The hearing itself
+
+1. Gather your required Documents/Info
+    1. A valid government ID in your previous legal Name
+    2. A copy of your filled in proposed order
+    3. Your case number
+        - I found it very helpful to have a printed page with my case number for various courthouse employees to read. You can use cics.pdf for this, or make your own even simpler page!
+2. Go to the Courthouse
+3. Go to the Ex Parte department for your scheduled hearing time.
+    - To find it, you can look in the directory in the lobby. It is in room W-325 on the 3rd floor (as of 11/20/2024).
+    - **Note:** You might see screens with a schedule and freak out because you don't see your name. Don't worry! Ex Parte cases aren't listed on the TVs!
+4. Attend your hearing
+    - You'll be let into the room, and asked to sit on a bench while you wait for your turn.
+    - Once in the room, the judge will ask for your proposed order, look it over, and if everything looks correct, sign it
+    - You're done with the hearing!
+
+#### Getting certified copies of your order
+
+You'll now need to bring your signed order to the Superior Court Clerk's Office. They are on the 6th floor, E-609 (as of 11/20/2024).
+
+1. Have the clerk file the original order, and make as many certified copies as you would like.
+
+As of 11/20/2024, prices for certified copies are as follows:
+
+- For each copy:
+    - $5.00 / copy for the first Page
+    - $1.00 / copy for each additional page
+    - (So, for example, a 3-page Proposed Order costs $5.00 + $1.00 + $1.00 = $7.00 for one copy)
+    
+You can pay with credit card or check (not sure about cash). 
+
+There is an additional fee for using a credit card:
+- If your total fee is less than $60.00
+    - $1.49
+- If your total fee is more than $60.00
+    - 2.49% of the total fee
+
+
+### You're all done! Congratulations!
+Next up... updating everything else... -_-
