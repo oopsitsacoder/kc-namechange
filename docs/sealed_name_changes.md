@@ -19,8 +19,8 @@ There are no official forms for a sealed name change in King County. Helpfully, 
     - [Instructions and forms packet](https://kcll.org/wp-content/uploads/2024/09/7-Sealed-Name-Change-in-Superior-Court-Nov.-2023.pdf)
     
 In either case, there are two forms you need to fill out:
-1. **Petition for a name change** - this is your request for a court order to change your name.
-2. **Proposed order for a name change** - this is basically a template court order for the judge to fill out at your hearing.
+1. **Petition for a name change** - This is your request for a court order to change your name. This is what you file *before* your hearing.
+2. **Proposed order for a name change** - This is basically a template court order for the judge to fill out at your hearing. You bring this *to* your hearing.
 
 ### Steps ###
 1. Fill in your petition form
@@ -40,7 +40,7 @@ In either case, there are two forms you need to fill out:
 7. Required Initiating Documents
     1. Upload your **Petition for a name change, *not the proposed Order***.
 8. Additional Documents
-    1. Upload your **Proposed Order**
+    1. Nothing required here. Don't upload your Proposed Order, it will be rejected.
 9. Filing Fees
     1. **TODO**: Need more info on asking the court to waive the fee
 10. Register for E-Service
@@ -49,13 +49,59 @@ In either case, there are two forms you need to fill out:
     - A case number
     - A Case Information Cover Sheet (cics.pdf)
     - A scheduling document (schedule.pdf)
-12.  - You now need to schedule your hearing!
-    1. Navigate to the [Ex Parte Online Scheduling webpage](https://superiorcourt.kingcounty.gov/ex-parte-online-scheduling)
-        - ![Ex parte scheduling](/kc-namechange/assets/images/ExParteScheduling.png)
-    2. Choose "Seattle" in the "Locations" dropdown
-    3. Pick an available "Adoptions/Name Change" slot
-    
+12. You now need to schedule your hearing!
+   
 #### Filing In-Person
+TODO
 
 
+#### Scheduling your hearing online
+
+** Request a hearing **
+
+First step is to request a hearing via the Ex Parte scheduling page. You can get to it from the link in your "schedule.pdf" file, but it's easiest to go direct to the webpage specified below:
+
+1. Navigate to the [Ex Parte Online Scheduling webpage](https://superiorcourt.kingcounty.gov/ex-parte-online-scheduling)
+    - ![Ex parte scheduling](/kc-namechange/assets/images/ExParteScheduling.png)
+2. Choose "Seattle" in the "Locations" dropdown
+3. Pick an available "Adoptions/Name Change" slot
+4. Fill in your case number. 
+5. After filling in your case number, the Event Type and Event Sub Type boxes should only have one option each, so select them:
+    1. Event Type: EXP Civil Motion
+    2. Event Sub Type: Sealed Name change
+6. Fill in the "Moving Party Information" with your previous legal name
+7. Leave "Responding Party Information" blank
+8. Click Submit
+
+You should get a confirmation page, as well as a confirmation email.
+
+*Before you leave the confirmation page, make sure to download the Notice of Motion*. 
+Note that "Notice of Motion" and "Notice of Court Date" refer to the same form, but "Notice of Motion" is pre-filled with *your specific information*, which makes the next steps easier.
+If you forget to download your "Notice of Motion", you can find a *blank* Notice of Court Date form here: [Notice of Court Date Forms](https://kingcounty.gov/en/court/superior-court/courts-jails-legal-system/notice-of-court-date-forms)
+
+** File a Notice of Court Date **
+Fill in your Notice of Court Date / Notice of Motion. If your form is pre-filled, use the value that is prefilled:
+1. In the upper left blank area, list your case name, usually "IN RE <DEADNAME>"
+2. In the upper right, where it says CASE NO., list your case number
+3. In the "To the Superior Clerk and All Parties" Section:
+    1. List your scheled date time
+    2. For the "calendar" spot, fill in "Ex Parte/Probate Adoptions/Name Change"
+    3. For "The name of the motion is", fill in "EXP Civil Motion - Sealed Name Change"
+    4. For "The motion was filed on" put the current date. For "by" put your previous legal name.
+    5. Fill in your preferred email.
+    6. Check the "Adoptions/Name Change" boxes
+4. Finally, sign and date the document, and check the box for the email address you'd like to use
+
+![Example](/kc-namechange/assets/images/NoticeOfCourtDate_Filled.jpg) 
+
+Now you should be good to go!
+
+** Checking Status **
+If you'd like to check the status of your hearing:
+1. Navigate back to the [Ex Parte Online Scheduling webpage](https://superiorcourt.kingcounty.gov/ex-parte-online-scheduling).
+2. Choose "Seattle" in the "Locations" dropdown
+3. Choose the date/time you chose from the calendar
+4. Look for your case number, and the Event Status. Once the Status is "Scheduled", you're good to go!
+
+![Example](/kc-namechange/assets/images/CheckingCaseStatus.jpg) 
 
