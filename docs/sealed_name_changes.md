@@ -57,7 +57,7 @@ TODO
 
 #### Scheduling your hearing online
 
-** Request a hearing **
+**Request a hearing**
 
 First step is to request a hearing via the Ex Parte scheduling page. You can get to it from the link in your "schedule.pdf" file, but it's easiest to go direct to the webpage specified below:
 
@@ -79,7 +79,7 @@ You should get a confirmation page, as well as a confirmation email.
 Note that "Notice of Motion" and "Notice of Court Date" refer to the same form, but "Notice of Motion" is pre-filled with *your specific information*, which makes the next steps easier.
 If you forget to download your "Notice of Motion", you can find a *blank* Notice of Court Date form here: [Notice of Court Date Forms](https://kingcounty.gov/en/court/superior-court/courts-jails-legal-system/notice-of-court-date-forms)
 
-** File a Notice of Court Date **
+**File a Notice of Court Date**
 Fill in your Notice of Court Date / Notice of Motion. If your form is pre-filled, use the value that is prefilled:
 1. In the upper left blank area, list your case name, usually "IN RE <DEADNAME>"
 2. In the upper right, where it says CASE NO., list your case number
@@ -104,4 +104,10 @@ If you'd like to check the status of your hearing:
 4. Look for your case number, and the Event Status. Once the Status is "Scheduled", you're good to go!
 
 ![Example](/kc-namechange/assets/images/CheckingCaseStatus.jpg) 
+
+#### Attending your hearing
+
+
+- [Courthouse Webpage](https://kingcounty.gov/en/court/superior-court/courts-jails-legal-system/court-calendars-locations-operations/superior-court-locations/king-county-courthouse)
+- [Superior Court Directory](https://kingcounty.gov/en/-/media/courts/superior-court/docs/locations/kcch-brochure.ashx)
 
