@@ -10,13 +10,15 @@
 
 ## Required Forms
 
-There are no official forms for a sealed name change in King County. Helpfully, multiple law groups have provided templates for people to use, and using either is fine as of 11/14/2024.
+There are no official forms for a sealed name change in King County. Helpfully, multiple law groups have provided templates for people to use. 
+
+**NOTE:** As of 12/4/2024 King County recommends using the WashingtonLawHelp forms.
 
 - [WashingtonLawHelp.org Name Change site](https://www.washingtonlawhelp.org/resource/name-change)
     - [Instructions and forms packet](https://www.washingtonlawhelp.org/files/C9D2EA3F-0350-D9AF-ACAE-BF37E9BC9FFA/attachments/392DF2A7-D062-2F32-194A-DF77898A9812/3400en_how-to-get-a-name-change-in-washington-state.pdf)
     - [Forms only](https://www.washingtonlawhelp.org/resource/name-change/download/28DA183A-0725-4512-AC74-6E7775455F11.pdf)
-- [King County Law Library site](https://kcll.org/sealed-name-change-order/)
-    - [Instructions and forms packet](https://kcll.org/wp-content/uploads/2024/09/7-Sealed-Name-Change-in-Superior-Court-Nov.-2023.pdf)
+- [~~King County Law Library site~~](https://kcll.org/sealed-name-change-order/)
+    - [~~Instructions and forms packet~~](https://kcll.org/wp-content/uploads/2024/09/7-Sealed-Name-Change-in-Superior-Court-Nov.-2023.pdf)
     
 In either case, there are two forms you need to fill out:
 1. **Petition for a name change** - This is your request for a court order to change your name. This is what you file *before* your hearing.
