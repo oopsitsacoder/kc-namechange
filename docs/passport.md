@@ -35,7 +35,7 @@
 2. Print out the form and instructions listed by the wizard after you've filled out all the required fields.
 
 ### Renewing by mail
-The rest of this guide assumes you are *renewing* an existing passport by mail (using form DS-82). If you're going in-person, follow those instructions.
+The rest of this guide assumes you are *renewing* an existing passport by mail (using form DS-82). If you're going in-person, these instructions may or may not apply!
 
 ### Collecting required documents
 1. Get a copy of your court order.
