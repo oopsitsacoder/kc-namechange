@@ -17,7 +17,7 @@
 ## Forms:
 1. [Passport Update Wizard](https://pptform.state.gov/PassportWizardMain.aspx)
     - The wizard **should** tell you the proper form to fill out, and bring you to it!
-    - **Form DS-82** 
+    - [**Form DS-82**](https://eforms.state.gov/Forms/ds82_pdf.pdf)
         - If you have a passport already, and it was issued more than a year you will likely be filling out a DS-82 form.
     - **Form DS-5504**
         - If you have a passport already, and it was issued less than one year ago, you will likely be filling out a DS-5504 form.
